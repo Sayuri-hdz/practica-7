@@ -105,4 +105,4 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
 ## Conclusion
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+Durante esta practica tuve dificultades al momento de utilizar el programa Proteus, que serviria para simular el codigo y el microcontrolador. Esta practica fue la segunda vez que utilice Proteus. Se realizo el codigo C para usar en el Proteus.  Es una muy buena herramienta debido a que permite general simulaciones de circuitos y tiene muchos componentes que nos sirven para poder hacer las simulaciones que no se pudieron hacer en la curiosity.
